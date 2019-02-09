@@ -1,0 +1,36 @@
+# 1.0.8 : 28/07/2018
+
+* From u16_core
+
+# 1.0.7 : 13/08/2017
+
+* Noms de base/user avec -
+
+# 1.0.6 : 24/07/2017
+
+* curl / zip
+
+# 1.0.5 : 08/07/2017
+
+* first_run : moving in pre-run
+
+# 1.0.4 : 06/07/2017
+
+* normal_run if /data exists -> moving
+
+# 1.0.3 : 06/07/2017
+
+* create user + auto imp dumps
+* mysql data in /data
+
+# 1.0.2 : 05/07/2017
+
+* error mounting db
+
+# 1.0.1 : 19/06/2017
+
+* firstrun.ok if mysql init ok
+
+# 1.0.0 : 29/05/2017
+
+* Version initiale
